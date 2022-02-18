@@ -6,4 +6,4 @@ layout: index
 ---
 ## Welcome to DAVITTEC Pages
 
-## DAVITTEC 1
+## DAVITTEC 2
