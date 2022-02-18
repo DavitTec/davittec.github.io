@@ -1,0 +1,7 @@
+/team/david-mullins /team/david
+# Covid Emergency Fund
+/covid https://pages.donately.com/assinfoundation/campaigns
+# Redirect blog posts to WP domain
+/blog/* https://assinfoundation.org/blog/:splat 302!
+# Show english pages for missing spanish pages
+# Redirect Spanish language users to Spanish version of the site
