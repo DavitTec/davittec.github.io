@@ -1,6 +1,8 @@
 ---
 permalink: /ourwork/
-layout: ourwork
+layout: default
 title: Ourwork
 ---
 # Ourwork
+
+Story

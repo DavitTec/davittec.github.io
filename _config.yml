@@ -5,7 +5,7 @@ baseurl: ""  # place folder name if the site is served in a subfolder
 
 
 email: info@davit.ie
-description: 
+description:
   A basic Website of DavitTec using Gems jekyll and github_username
   minima.You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -19,6 +19,16 @@ theme: jekyll-theme-minimal
 #  - jekyll-feed
 #remote_theme: pages-themes/minimal@v0.2.0
 
+include:
+  - _redirects
+  - _pages
+collections:
+  projects:
+    output: true
+    permalink: /ourwork/:path/
+  aboutus:
+    output: true
+    permalink: /:path/
 
 
 # Exclude from processing.
