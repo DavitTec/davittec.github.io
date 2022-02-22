@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+[![Join the chat at https://gitter.im/DavitTec/homebase](https://badges.gitter.im/DavitTec/homebase.svg)](https://gitter.im/DavitTec/homebase?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # DAVITTEC root
 
 You can use the [editor on GitHub](https://github.com/DavitTec/davittec.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
